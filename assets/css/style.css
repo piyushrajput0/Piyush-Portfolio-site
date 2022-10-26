@@ -1128,7 +1128,7 @@ margin-bottom: var(--mb-2-5);
 {
     font-size: var(--small-font-size);
     text-align: center;
-    color: var(--text-color-light);
+    color: black;
     margin-top: var(--mb-3);
 }
 
@@ -1453,6 +1453,18 @@ margin-bottom: var(--mb-2-5);
     .footer_container{
         grid-template-columns: repeat(3,1fr);
 
+    }
+
+
+    .buttonhover
+    {
+        border: 0px white;
+        font-family: var(--body-font);
+    }
+    .buttonhover:hover
+    {
+        border: 1px solid;
+        border-color: black;
     }
 .footer_bg{
     padding: 3rem 0 3.5rem;
