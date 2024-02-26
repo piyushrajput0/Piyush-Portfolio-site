@@ -8,7 +8,7 @@
         --header-height: 3rem ;
 
         /* Change favorite color */
-        --hue-color:250; /*Purple 250 - Green 142 - Blue 230 - Pink 340*/ 
+        --hue-color:250; /*Purple 250 - Green 142 - Blue 230 - Pink 340*/ skill
 
 
         /* hsl color mode */
@@ -619,22 +619,22 @@ display: none;
 
 .skills_html
 {
-    width:80%;
+    width:90%;
 }
 
 .skills_css
 {
-    width:70%;
+    width:80%;
 }
 
 .skills_js
 {
-    width:70%;
+    width:90%;
 }
 
 .skills_react
 {
-    width:60%;
+    width:80%;
 }
 
 .skills_c
